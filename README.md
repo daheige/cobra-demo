@@ -1,2 +1,0 @@
-# cobra-demo
-cobra demo
